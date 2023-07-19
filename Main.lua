@@ -68,7 +68,7 @@ local localPlayer = players.LocalPlayer;
 
 --// GLOBALS \\--
 local MAXTIMEOUT = 20;
-local TITLE = "Project Spy - v1.0.0";
+local TITLE = "Project-Spy - v1.0.0";
 local BACKDOOR_SOLVER = {};
 local BACKDOOR_FILTER = {};
 local URSTRING_TO_BACKDOOR = {};
